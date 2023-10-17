@@ -9,7 +9,7 @@ openzeppelin-solidity下的math，只能使用旧版本，新版本会有问题�
 
 二：启动ganache-cli 建议加上-d，加上后以后再次运行ganache-cli -d，在钱包（例如metamask）不需要重新导入密钥
 
-三：部署合约 truffle -migrate --reset
+三：部署合约 truffle migrate --reset
 
 四： npm start 运行项目
 
